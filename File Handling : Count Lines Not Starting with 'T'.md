@@ -13,7 +13,7 @@ To write a Python program that counts the number of lines in a text file `story.
 
 ## 🧾 Program
 ```
-ile_content = """This is the first line.
+file_content = """This is the first line.
 The sun is shining.
 Today is a good day.
 Another line that does not start with T.
