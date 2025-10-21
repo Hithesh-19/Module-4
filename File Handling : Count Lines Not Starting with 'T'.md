@@ -54,4 +54,4 @@ if os.path.exists('story.txt'):
 
 
 ## Result
-THus the code executed successfully.
+Thus the code executed successfully.
